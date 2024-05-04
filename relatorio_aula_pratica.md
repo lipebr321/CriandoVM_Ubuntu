@@ -10,13 +10,13 @@ O objetivo desta aula prática foi instalar uma máquina virtual Linux Ubuntu ut
 
 ### Instalação do VirtualBox:
 - Iniciando a criação da VM:
-  ![virtual box](img/imagem1.jpg)
+  ![virtual box](img/imagem1.png)
 - Selecionando ISO:
-  ![ISO](CriandoVM_Ubuntu/img/imagem2.jpg)
+  ![ISO](CriandoVM_Ubuntu/img/imagem2.png)
 - Configurações da VM:
-   ![Config](CriandoVM_Ubuntu/img/imagem3.jpg)
+   ![Config](CriandoVM_Ubuntu/img/imagem3.png)
 - Iniciando a VM:
-   ![Inicicando VM](CriandoVM_Ubuntu/img/imagem4.jpg)
+   ![Inicicando VM](CriandoVM_Ubuntu/img/imagem4.png)
 
 ### Iniciando a instalação do SO Linux Ubuntu:
 - Primeiro acesso ao SO:
